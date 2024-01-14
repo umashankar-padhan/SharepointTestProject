@@ -12,7 +12,7 @@ export default class ShoppingCartWebpart extends React.Component<IShoppingCartWe
         <div className={ styles.container }>
           <div className={ styles.row }>
             <div className={ styles.column }>
-              <span className={ styles.title }>Welcome to SharePoint!!!!! Test again</span>Test;ihvcj
+              <span className={ styles.title }>Welcome to SharePoint!!!!! Test again</span>Test;ihvcjre
               <p className={ styles.subTitle }>Customize SharePoint experiences using Web Parts. test merge Welcome to merge vcode</p>
               <p className={ styles.description }>{escape(this.props.description)}</p>
               <a href="https://aka.ms/spfx" className={ styles.button }>
