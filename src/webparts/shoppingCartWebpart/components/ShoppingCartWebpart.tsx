@@ -3,7 +3,7 @@ import styles from './ShoppingCartWebpart.module.scss';
 import { IShoppingCartWebpartProps } from './IShoppingCartWebpartProps';
 import { escape } from '@microsoft/sp-lodash-subset';
 
-Connect-PnPOnline -Url $adminCenterUrl -AppId "hsusubbau98882727" -AppSecret "1234567890098764"
+
 
 export default class ShoppingCartWebpart extends React.Component<IShoppingCartWebpartProps, {}> {
   public render(): React.ReactElement<IShoppingCartWebpartProps> {
