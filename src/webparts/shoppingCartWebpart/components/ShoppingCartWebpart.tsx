@@ -9,6 +9,7 @@ export default class ShoppingCartWebpart extends React.Component<IShoppingCartWe
   public render(): React.ReactElement<IShoppingCartWebpartProps> {
     return (
       <div className={ styles.shoppingCartWebpart }>
+        nzn ssa ahbs js jjs smsm
         <div className={ styles.container }>
           <div className={ styles.row }>
             <div className={ styles.column }>
