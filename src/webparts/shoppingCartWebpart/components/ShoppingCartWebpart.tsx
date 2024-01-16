@@ -25,5 +25,5 @@ export default class ShoppingCartWebpart extends React.Component<IShoppingCartWe
       </div>
     );
   }
-shsh sjjjs  sjsn
+
 }
